@@ -1,0 +1,60 @@
+.head {
+   border : 2px solid black;
+   text-align: center;
+   background-color: rgb(215, 230, 14);
+   border-radius: 10px;
+}
+
+.btns {
+    display : flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.btn {
+    width: 200px;
+    height: 100px;
+    background-color: rgba(28, 28, 197, 0.541);
+}
+
+.status {
+    border : 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    background-color: rgb(211, 243, 243);
+}
+
+.statusChild {
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    border: 2px solid rgb(199, 63, 63);
+    background-color: white;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.output {
+    border : 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    background-color: rgb(211, 243, 243);
+}
+
+.outputChild {
+    width: 200px;
+    height: 100px;
+    border: 2px solid rgb(199, 63, 63);
+    background-color: white;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
